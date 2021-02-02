@@ -1,0 +1,10 @@
+i {
+    color: red;
+  }
+  #sort {
+    max-width: 200px;
+    display: block;
+    float: none;
+    padding: 20px;
+  }
+  
